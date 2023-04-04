@@ -1,8 +1,7 @@
 import React, { useContext, useState } from "react";
 import axios from "axios";
 
-const BASE_URL =
-  "https://api.render.com/deploy/srv-cgm1r03hp8u2dv626crg?key=a1U9kzfJMtk";
+const BASE_URL = "https://personal-budget-lzu1.onrender.com/";
 
 const GlobalContext = React.createContext();
 
